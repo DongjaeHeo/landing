@@ -1,0 +1,18 @@
+.footer {
+  background-color: black;
+  padding: 80px;
+  text-align: center;
+}
+
+.footer p {
+  color: darkgray;
+}
+
+p i {
+  color: red;
+}
+
+.footer a {
+  font-size: 35px;
+  color: rgb(82, 132, 82);
+}
